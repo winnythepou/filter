@@ -161,7 +161,7 @@ ItemDisplay[glg]: %GREEN%««%GRAY%Emerald%GREEN%»»
 ItemDisplay[glr]: %RED%««%GRAY%Ruby%RED%»»
 ItemDisplay[glb]: %BLUE%««%GRAY%Sapphire%BLUE%»»
 ItemDisplay[gly]: %YELLOW%««%GRAY%Topaz%YELLOW%»»
-ItemDisplay[skl]: %ORANGE%++++++««%GRAY%Skull%ORANGE%»»++++++
+ItemDisplay[skl]: %ORANGE%+++++++++++++++««%GRAY%Skull%ORANGE%»»+++++++++++++++
 ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
 ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
 ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
